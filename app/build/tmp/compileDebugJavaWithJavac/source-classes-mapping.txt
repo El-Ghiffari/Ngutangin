@@ -1,0 +1,10 @@
+com/example/ngutangins/BuildConfig.java
+ com.example.ngutangins.BuildConfig
+com/example/ngutangins/Utang.java
+ com.example.ngutangins.Utang
+ com.example.ngutangins.Utang$1
+com/example/ngutangins/ViewPagerAdapter.java
+ com.example.ngutangins.ViewPagerAdapter
+com/example/ngutangins/MainActivity.java
+ com.example.ngutangins.MainActivity
+ com.example.ngutangins.MainActivity$1

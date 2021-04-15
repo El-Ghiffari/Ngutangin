@@ -1,0 +1,4 @@
+#Thu Apr 15 21:53:46 ICT 2021
+base.0=D\:\\Kuliah\\Mobile Programming\\Ngutangins\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
